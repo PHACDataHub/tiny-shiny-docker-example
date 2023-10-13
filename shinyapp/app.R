@@ -4,7 +4,7 @@ library(shiny)
 ui <- fluidPage(
 
   # App title ----
-  titlePanel("Hello PHAC!"),
+  titlePanel("Hello Demo Viewers!"),
 
   # Sidebar layout with input and output definitions ----
   sidebarLayout(
